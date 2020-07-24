@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Righteous;
+    src: url('http://localhost:8080/beautie/fonts/Righteous-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: ReemKufi;
+    src: url('http://localhost:8080/beautie/fonts/ReemKufi-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Ribeye;
+    src: url('http://localhost:8080/beautie/fonts/Ribeye-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: RibeyeMarrow;
+    src: url('http://localhost:8080/beautie/fonts/RibeyeMarrow-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: OdibeeSans;
+    src: url('http://localhost:8080/beautie/fonts/OdibeeSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Roboto-Light;
+    src: url('http://localhost:8080/beautie/fonts/Roboto-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Roboto-Bold;
+    src: url('http://localhost:8080/beautie/fonts/Roboto-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: TitilliumWeb-Bold;
+    src: url('http://localhost:8080/beautie/fonts/TitilliumWeb-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: TitilliumWeb-Regular;
+    src: url('http://localhost:8080/beautie/fonts/TitilliumWeb-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: BebasNeue;
+    src: url('http://localhost:8080/beautie/fonts/BebasNeue.ttf') format('truetype');
+}
